@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170985741098",
+    "project_id": "rice-quality-scaning-app",
+    "storage_bucket": "rice-quality-scaning-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170985741098:android:cbb42cfcef9ee07f665c53",
+        "android_client_info": {
+          "package_name": "com.example.rice_quality_scaning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170985741098-2r0sgajdt0d1bmjj3qu1282lolbnvi6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KSbBi0EVKD2bhQxrEJQu1EjOLbf7f0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170985741098-2r0sgajdt0d1bmjj3qu1282lolbnvi6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
